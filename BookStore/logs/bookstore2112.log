@@ -1,0 +1,288 @@
+INFO 2022-03-29 15:12:08,804 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-03-30 00:57:35,381 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-03-30 00:57:37,337 basehttp 161 "GET / HTTP/1.1" 200 5320
+WARNING 2022-03-30 00:57:37,466 log 230 Not Found: /favicon.ico
+WARNING 2022-03-30 00:57:37,467 basehttp 161 "GET /favicon.ico HTTP/1.1" 404 8797
+INFO 2022-03-30 00:57:41,422 basehttp 161 "OPTIONS /categories/ HTTP/1.1" 200 0
+INFO 2022-03-30 00:57:41,423 basehttp 161 "OPTIONS /hotsearchs/ HTTP/1.1" 200 0
+INFO 2022-03-30 00:57:41,435 basehttp 161 "OPTIONS /goods/?is_new=true HTTP/1.1" 200 0
+INFO 2022-03-30 00:57:41,435 basehttp 161 "OPTIONS /shopcarts/ HTTP/1.1" 200 0
+INFO 2022-03-30 00:57:41,436 basehttp 161 "OPTIONS /banners/ HTTP/1.1" 200 0
+INFO 2022-03-30 00:57:41,439 basehttp 161 "OPTIONS /indexgoods/ HTTP/1.1" 200 0
+INFO 2022-03-30 00:57:41,517 basehttp 161 "GET /hotsearchs/ HTTP/1.1" 200 86
+INFO 2022-03-30 00:57:41,520 basehttp 161 "GET /categories/ HTTP/1.1" 200 859
+INFO 2022-03-30 00:57:41,525 basehttp 161 "GET /shopcarts/ HTTP/1.1" 200 2
+INFO 2022-03-30 00:57:41,527 basehttp 161 "GET /banners/ HTTP/1.1" 200 2
+INFO 2022-03-30 00:57:41,575 basehttp 161 "GET /goods/?is_new=true HTTP/1.1" 200 1286
+WARNING 2022-03-30 00:57:41,609 log 230 Not Found: /media/goods/images/bailu_8o49ioh.png
+WARNING 2022-03-30 00:57:41,613 basehttp 161 "GET /media/goods/images/bailu_8o49ioh.png HTTP/1.1" 404 8955
+WARNING 2022-03-30 00:57:41,624 log 230 Not Found: /media/goods/images/ai_fRXMMzv.png
+WARNING 2022-03-30 00:57:41,627 basehttp 161 "GET /media/goods/images/ai_fRXMMzv.png HTTP/1.1" 404 8943
+INFO 2022-03-30 00:57:41,844 basehttp 161 "GET /indexgoods/ HTTP/1.1" 200 29518
+WARNING 2022-03-30 00:57:41,905 log 230 Not Found: /media/goods/images/jieyou_JDRanhI.png
+WARNING 2022-03-30 00:57:41,914 basehttp 161 "GET /media/goods/images/jieyou_JDRanhI.png HTTP/1.1" 404 8959
+WARNING 2022-03-30 00:57:41,918 log 230 Not Found: /media/goods/images/bailu_8o49ioh.png
+WARNING 2022-03-30 00:57:41,938 log 230 Not Found: /media/goods/images/yijian_Tu956p4.png
+WARNING 2022-03-30 00:57:41,940 log 230 Not Found: /media/goods/images/ai_fRXMMzv.png
+WARNING 2022-03-30 00:57:41,941 basehttp 161 "GET /media/goods/images/yijian_Tu956p4.png HTTP/1.1" 404 8959
+WARNING 2022-03-30 00:57:41,944 basehttp 161 "GET /media/goods/images/bailu_8o49ioh.png HTTP/1.1" 404 8955
+WARNING 2022-03-30 00:57:41,944 log 230 Not Found: /media/goods/images/liuyong_wzq8kXx.png
+WARNING 2022-03-30 00:57:41,945 basehttp 161 "GET /media/goods/images/ai_fRXMMzv.png HTTP/1.1" 404 8943
+WARNING 2022-03-30 00:57:41,970 basehttp 161 "GET /media/goods/images/liuyong_wzq8kXx.png HTTP/1.1" 404 8963
+WARNING 2022-03-30 00:57:41,978 log 230 Not Found: /media/goods/images/4I5aaJH64j.png
+WARNING 2022-03-30 00:57:41,988 log 230 Not Found: /media/空着
+WARNING 2022-03-30 00:57:42,001 log 230 Not Found: /media/goods/images/avatar.jpg
+WARNING 2022-03-30 00:57:42,007 log 230 Not Found: /media/http:/vueshopstatic.mtianyan.cn/root/projects/VueDjangoFrameWorkShop/media/%E7%A9%BA%E7%9D%80
+WARNING 2022-03-30 00:57:42,008 basehttp 161 "GET /media/goods/images/4I5aaJH64j.png HTTP/1.1" 404 8943
+WARNING 2022-03-30 00:57:42,009 basehttp 161 "GET /media/%E7%A9%BA%E7%9D%80 HTTP/1.1" 404 8871
+WARNING 2022-03-30 00:57:42,010 basehttp 161 "GET /media/goods/images/avatar.jpg HTTP/1.1" 404 8927
+WARNING 2022-03-30 00:57:42,012 basehttp 161 "GET /media/http%3A/vueshopstatic.mtianyan.cn/root/projects/VueDjangoFrameWorkShop/media/%25E7%25A9%25BA%25E7%259D%2580 HTTP/1.1" 404 9219
+INFO 2022-03-30 00:57:53,075 basehttp 161 "OPTIONS /goods/2/ HTTP/1.1" 200 0
+INFO 2022-03-30 00:57:53,083 basehttp 161 "OPTIONS /userfavs/2/ HTTP/1.1" 200 0
+INFO 2022-03-30 00:57:53,083 basehttp 161 "OPTIONS /goods/?is_hot=true HTTP/1.1" 200 0
+INFO 2022-03-30 00:57:53,102 basehttp 161 "GET /categories/ HTTP/1.1" 200 859
+INFO 2022-03-30 00:57:53,103 basehttp 161 "GET /hotsearchs/ HTTP/1.1" 200 86
+WARNING 2022-03-30 00:57:53,133 log 230 Not Found: /userfavs/2/
+INFO 2022-03-30 00:57:53,136 basehttp 161 "GET /shopcarts/ HTTP/1.1" 200 2
+WARNING 2022-03-30 00:57:53,137 basehttp 161 "GET /userfavs/2/ HTTP/1.1" 404 8797
+INFO 2022-03-30 00:57:53,151 basehttp 161 "GET /goods/2/ HTTP/1.1" 200 532
+INFO 2022-03-30 00:57:53,172 basehttp 161 "GET /goods/?is_hot=true HTTP/1.1" 200 1286
+WARNING 2022-03-30 00:57:53,196 log 230 Not Found: /media/goods/images/bailu_8o49ioh.png
+WARNING 2022-03-30 00:57:53,207 log 230 Not Found: /media/goods/images/ai_fRXMMzv.png
+WARNING 2022-03-30 00:57:53,207 basehttp 161 "GET /media/goods/images/bailu_8o49ioh.png HTTP/1.1" 404 8955
+WARNING 2022-03-30 00:57:53,209 basehttp 161 "GET /media/goods/images/ai_fRXMMzv.png HTTP/1.1" 404 8943
+INFO 2022-03-30 00:57:55,047 basehttp 161 "OPTIONS /userfavs/ HTTP/1.1" 200 0
+WARNING 2022-03-30 00:57:55,107 log 230 Not Found: /userfavs/
+WARNING 2022-03-30 00:57:55,107 basehttp 161 "POST /userfavs/ HTTP/1.1" 404 8792
+WARNING 2022-03-30 00:58:01,272 log 230 Not Found: /userfavs/
+WARNING 2022-03-30 00:58:01,273 basehttp 161 "POST /userfavs/ HTTP/1.1" 404 8792
+INFO 2022-03-30 01:14:28,813 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-03-30 01:14:30,547 basehttp 161 "GET / HTTP/1.1" 200 5464
+INFO 2022-03-30 01:14:34,189 basehttp 161 "GET /categories/ HTTP/1.1" 200 859
+INFO 2022-03-30 01:14:34,216 basehttp 161 "GET /banners/ HTTP/1.1" 200 2
+INFO 2022-03-30 01:14:34,220 basehttp 161 "GET /hotsearchs/ HTTP/1.1" 200 86
+INFO 2022-03-30 01:14:34,223 basehttp 161 "GET /shopcarts/ HTTP/1.1" 200 2
+INFO 2022-03-30 01:14:34,254 basehttp 161 "GET /goods/?is_new=true HTTP/1.1" 200 1286
+WARNING 2022-03-30 01:14:34,305 log 230 Not Found: /media/goods/images/bailu_8o49ioh.png
+WARNING 2022-03-30 01:14:34,314 log 230 Not Found: /media/goods/images/ai_fRXMMzv.png
+WARNING 2022-03-30 01:14:34,319 basehttp 161 "GET /media/goods/images/bailu_8o49ioh.png HTTP/1.1" 404 11836
+WARNING 2022-03-30 01:14:34,323 basehttp 161 "GET /media/goods/images/ai_fRXMMzv.png HTTP/1.1" 404 11824
+INFO 2022-03-30 01:14:34,537 basehttp 161 "GET /indexgoods/ HTTP/1.1" 200 29518
+WARNING 2022-03-30 01:14:34,613 log 230 Not Found: /media/goods/images/yijian_Tu956p4.png
+WARNING 2022-03-30 01:14:34,615 log 230 Not Found: /media/goods/images/ai_fRXMMzv.png
+WARNING 2022-03-30 01:14:34,632 log 230 Not Found: /media/goods/images/4I5aaJH64j.png
+WARNING 2022-03-30 01:14:34,641 log 230 Not Found: /media/goods/images/liuyong_wzq8kXx.png
+WARNING 2022-03-30 01:14:34,644 log 230 Not Found: /media/goods/images/jieyou_JDRanhI.png
+WARNING 2022-03-30 01:14:34,651 basehttp 161 "GET /media/goods/images/yijian_Tu956p4.png HTTP/1.1" 404 11840
+WARNING 2022-03-30 01:14:34,652 basehttp 161 "GET /media/goods/images/ai_fRXMMzv.png HTTP/1.1" 404 11824
+WARNING 2022-03-30 01:14:34,652 basehttp 161 "GET /media/goods/images/4I5aaJH64j.png HTTP/1.1" 404 11824
+WARNING 2022-03-30 01:14:34,653 basehttp 161 "GET /media/goods/images/liuyong_wzq8kXx.png HTTP/1.1" 404 11844
+WARNING 2022-03-30 01:14:34,680 log 230 Not Found: /media/goods/images/bailu_8o49ioh.png
+WARNING 2022-03-30 01:14:34,688 basehttp 161 "GET /media/goods/images/jieyou_JDRanhI.png HTTP/1.1" 404 11840
+WARNING 2022-03-30 01:14:34,691 log 230 Not Found: /media/空着
+WARNING 2022-03-30 01:14:34,710 log 230 Not Found: /media/goods/images/avatar.jpg
+WARNING 2022-03-30 01:14:34,720 log 230 Not Found: /media/http:/vueshopstatic.mtianyan.cn/root/projects/VueDjangoFrameWorkShop/media/%E7%A9%BA%E7%9D%80
+WARNING 2022-03-30 01:14:34,721 basehttp 161 "GET /media/goods/images/bailu_8o49ioh.png HTTP/1.1" 404 11836
+WARNING 2022-03-30 01:14:34,722 basehttp 161 "GET /media/goods/images/avatar.jpg HTTP/1.1" 404 11808
+WARNING 2022-03-30 01:14:34,723 basehttp 161 "GET /media/%E7%A9%BA%E7%9D%80 HTTP/1.1" 404 11752
+WARNING 2022-03-30 01:14:34,726 basehttp 161 "GET /media/http%3A/vueshopstatic.mtianyan.cn/root/projects/VueDjangoFrameWorkShop/media/%25E7%25A9%25BA%25E7%259D%2580 HTTP/1.1" 404 12100
+INFO 2022-03-30 01:14:36,901 basehttp 161 "GET /categories/ HTTP/1.1" 200 859
+INFO 2022-03-30 01:14:36,912 basehttp 161 "GET /hotsearchs/ HTTP/1.1" 200 86
+INFO 2022-03-30 01:14:36,912 basehttp 161 "GET /shopcarts/ HTTP/1.1" 200 2
+INFO 2022-03-30 01:14:36,913 basehttp 161 "GET /goods/2/ HTTP/1.1" 200 532
+INFO 2022-03-30 01:14:36,925 basehttp 161 "GET /goods/?is_hot=true HTTP/1.1" 200 1286
+WARNING 2022-03-30 01:14:36,971 log 230 Not Found: /media/goods/images/ai_fRXMMzv.png
+WARNING 2022-03-30 01:14:36,973 log 230 Not Found: /media/goods/images/bailu_8o49ioh.png
+WARNING 2022-03-30 01:14:36,975 basehttp 161 "GET /media/goods/images/ai_fRXMMzv.png HTTP/1.1" 404 11824
+WARNING 2022-03-30 01:14:36,976 basehttp 161 "GET /media/goods/images/bailu_8o49ioh.png HTTP/1.1" 404 11836
+ERROR 2022-03-30 01:14:37,181 log 230 Internal Server Error: /userfavs/2/
+Traceback (most recent call last):
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 73, in execute
+    return self.cursor.execute(query, args)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1146, "Table 'bookstore.users_user_favorite' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/rest_framework/mixins.py", line 54, in retrieve
+    instance = self.get_object()
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/rest_framework/generics.py", line 96, in get_object
+    obj = get_object_or_404(queryset, **filter_kwargs)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/rest_framework/generics.py", line 19, in get_object_or_404
+    return _get_object_or_404(queryset, *filter_args, **filter_kwargs)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/django/shortcuts.py", line 76, in get_object_or_404
+    return queryset.get(*args, **kwargs)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/django/db/models/query.py", line 431, in get
+    num = len(clone)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/django/db/models/query.py", line 262, in __len__
+    self._fetch_all()
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/django/db/models/query.py", line 1324, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/django/db/models/query.py", line 51, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/django/db/models/sql/compiler.py", line 1175, in execute_sql
+    cursor.execute(sql, params)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/django/db/backends/utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 73, in execute
+    return self.cursor.execute(query, args)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.ProgrammingError: (1146, "Table 'bookstore.users_user_favorite' doesn't exist")
+ERROR 2022-03-30 01:14:37,186 basehttp 161 "GET /userfavs/2/ HTTP/1.1" 500 238514
+ERROR 2022-03-30 01:14:43,480 log 230 Internal Server Error: /userfavs/
+Traceback (most recent call last):
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 73, in execute
+    return self.cursor.execute(query, args)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1146, "Table 'bookstore.users_user_favorite' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/rest_framework/serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/rest_framework/serializers.py", line 428, in run_validation
+    self.run_validators(value)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/rest_framework/serializers.py", line 461, in run_validators
+    super().run_validators(to_validate)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/rest_framework/fields.py", line 591, in run_validators
+    validator(value, self)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/rest_framework/validators.py", line 157, in __call__
+    if None not in checked_values and qs_exists(queryset):
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/rest_framework/validators.py", line 21, in qs_exists
+    return queryset.exists()
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/django/db/models/query.py", line 808, in exists
+    return self.query.has_results(using=self.db)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/django/db/models/sql/query.py", line 552, in has_results
+    return compiler.has_results()
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/django/db/models/sql/compiler.py", line 1145, in has_results
+    return bool(self.execute_sql(SINGLE))
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/django/db/models/sql/compiler.py", line 1175, in execute_sql
+    cursor.execute(sql, params)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/django/db/backends/utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/django/db/backends/mysql/base.py", line 73, in execute
+    return self.cursor.execute(query, args)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/root/.virtualenvs/DjangoEnv/lib/python3.6/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.ProgrammingError: (1146, "Table 'bookstore.users_user_favorite' doesn't exist")
+ERROR 2022-03-30 01:14:43,486 basehttp 161 "POST /userfavs/ HTTP/1.1" 500 245135
+INFO 2022-03-30 01:16:16,850 autoreload 637 Watching for file changes with StatReloader
